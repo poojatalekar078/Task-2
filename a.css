@@ -1,0 +1,30 @@
+#h{
+   
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 26px; 
+}
+#p1{
+    color: var(--Black-900, #121212);
+font-feature-settings: 'clig' off, 'liga' off;
+
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 600;
+line-height: 22px;
+
+}
+#p2
+{
+ color: var(--neutral-04100, #6C7275);
+font-feature-settings: 'clig' off, 'liga' off;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 22px; 
+text-decoration-line: strikethrough;
+}
